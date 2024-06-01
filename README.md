@@ -2,7 +2,7 @@
 
 <h3>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="38"/>
- Check out my <a href="https://zdyantb.github.io/website/">website</a>
+ Check out my <a href="https://zdyantb.github.io/">website</a>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="38"/>
 </h3>
 
