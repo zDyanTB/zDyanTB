@@ -10,7 +10,7 @@ I dabble a little with
 </div>
 
 <h3>
-<a href="https://zdyantb.github.io/">
+<a href="https://zdyant.com/">
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Partying%20Face.webp" alt="Partying Face" width="25" height="25" />
  Website
 </a><br>
